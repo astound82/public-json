@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "title": "2023년 5월 11일 차트",
   "trotList": [
     {
@@ -127,7 +127,7 @@
       "title": "나와 함께 가시렵니까",
       "album": "ONE",
       "artist": "이찬원",
-      "rank": 7,
+      "rank": 16,
       "difference": 0
     },
     {
@@ -135,7 +135,7 @@
       "title": "건배",
       "album": "ONE",
       "artist": "이찬원",
-      "rank": 5,
+      "rank": 17,
       "difference": 0
     },
     {
@@ -143,7 +143,7 @@
       "title": "밥 한번 먹자",
       "artist": "이찬원",
       "album": "ONE",
-      "rank": 13,
+      "rank": 18,
       "difference": 0
     }
   ]
